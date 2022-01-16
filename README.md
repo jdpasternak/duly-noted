@@ -14,10 +14,10 @@ This project uses the following technologies:
 
 ## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[Tests](#tests)
-[License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [License](#license)
 
 ---
 
