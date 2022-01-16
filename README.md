@@ -14,10 +14,10 @@ This project uses the following technologies:
 
 ## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[Tests](#tests)
-[License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [License](#license)
 
 ---
 
@@ -37,6 +37,7 @@ The app is currently hosted on a Heroku instance, but if you want to run it loca
 
 To use this application, follow these tips:
 
+- Either download the code and install it using the [instructions](#installation) above, or visit the [app](https://evening-bayou-58939.herokuapp.com/) hosted on Heroku.
 - On the home page, click **Get Started** to progress to the main application page.
 - Click `Note title` or `Note text` to focus the cursor onto the respective text inputs, then type what you want your note to say.
 - Click the save icon (<i class='fa fa-save'></i>) in the upper right-hand corner to save the text you've typed in.
